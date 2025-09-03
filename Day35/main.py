@@ -3,7 +3,7 @@ import requests
 parameters = {
     "lon": 78.4744,
     "lat": 17.3753,
-    "appid" : "6ae9ba2394ca9adf046d44496999ddb7",
+    "appid" : "",
     "cnt": 4
 }
 
